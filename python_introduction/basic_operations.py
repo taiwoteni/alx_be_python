@@ -3,7 +3,7 @@ number2 = 5
 
 addition = number1 + number2
 subtraction = number2 - number1
-multiplication = number 1 * number2
+multiplication = number1 * number2
 
 print('Addition of ', number1, 'and ', number2, ' is ', addition)
 print('Subtraction of ', number1, 'and ', number2, ' is ', subtraction)
